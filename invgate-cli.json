@@ -1,19 +1,19 @@
 {
-    "version": "0.4.7",
+    "version": "0.4.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wdelcant/invgate-cli/releases/download/v0.4.7/invgate-cli_0.4.7_Windows_amd64.zip",
+            "url": "https://github.com/wdelcant/invgate-cli/releases/download/v0.4.8/invgate-cli_0.4.8_Windows_amd64.zip",
             "bin": [
                 "invgate-cli.exe"
             ],
-            "hash": "80b6df4b6371fa91bad00ca1e4fc2f847aa8dd169e94994782fac25bf61a3abd"
+            "hash": "da8eca5da76c2c99db583899b6ca259da9f5c7997e61c1db6b183ff7d04b011f"
         },
         "arm64": {
-            "url": "https://github.com/wdelcant/invgate-cli/releases/download/v0.4.7/invgate-cli_0.4.7_Windows_arm64.zip",
+            "url": "https://github.com/wdelcant/invgate-cli/releases/download/v0.4.8/invgate-cli_0.4.8_Windows_arm64.zip",
             "bin": [
                 "invgate-cli.exe"
             ],
-            "hash": "6205a33819bc0800356868b8c87d42f08fb2da8775af64601d1670e090b5655b"
+            "hash": "9c7c9024a2292535a11fb99efee39f96b4ae253205c6d7c1790baf9ea5657198"
         }
     },
     "homepage": "https://github.com/wdelcant/invgate-cli",
