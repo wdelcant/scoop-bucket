@@ -6,14 +6,14 @@
             "bin": [
                 "invgate-cli.exe"
             ],
-            "hash": "2b3b8766a32c5368299c79c06535e7e1638df3ddf56b10f1a5688586bd6c235f"
+            "hash": "80b6df4b6371fa91bad00ca1e4fc2f847aa8dd169e94994782fac25bf61a3abd"
         },
         "arm64": {
             "url": "https://github.com/wdelcant/invgate-cli/releases/download/v0.4.7/invgate-cli_0.4.7_Windows_arm64.zip",
             "bin": [
                 "invgate-cli.exe"
             ],
-            "hash": "b18a1805500bcdd538d3681d44986a546e8412701051b0e7fe98480268159991"
+            "hash": "6205a33819bc0800356868b8c87d42f08fb2da8775af64601d1670e090b5655b"
         }
     },
     "homepage": "https://github.com/wdelcant/invgate-cli",
