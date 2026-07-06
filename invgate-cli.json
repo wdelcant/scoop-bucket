@@ -1,0 +1,22 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/wdelcant/invgate-cli/releases/download/v0.4.0/invgate-cli_0.4.0_Windows_amd64.zip",
+            "bin": [
+                "invgate-cli.exe"
+            ],
+            "hash": "c648a790a6fd952aa04a97a2a94962dac5c3a528914df7bb385c7ba7bdc29d9a"
+        },
+        "arm64": {
+            "url": "https://github.com/wdelcant/invgate-cli/releases/download/v0.4.0/invgate-cli_0.4.0_Windows_arm64.zip",
+            "bin": [
+                "invgate-cli.exe"
+            ],
+            "hash": "1f5456239ca9c4225112eb07f8950159606231ebf74f4a32b2e454a1044c0024"
+        }
+    },
+    "homepage": "https://github.com/wdelcant/invgate-cli",
+    "license": "MIT",
+    "description": "Runtime OpenAPI/Swagger CLI — works with any Swagger/OpenAPI spec"
+}
